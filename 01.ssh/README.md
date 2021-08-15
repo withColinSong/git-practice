@@ -13,4 +13,4 @@
 
 ### [01. 개인 계정 만들기](01.personal.md)
 ### [02. 회사 계정 만들기](02.company.md)
-### [03. SSH config 만들기](03.config.md.md)
+### [03. SSH config 만들기](03.config.md)

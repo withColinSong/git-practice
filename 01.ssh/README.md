@@ -14,4 +14,4 @@
 ### [01. 개인 계정 만들기](01.personal.md)
 ### [02. 회사 계정 만들기](02.company.md)
 ### [03. SSH config](03.ssh_config.md)
-### [04. git config](04.git_config.md.md)
+### [04. git config](04.git_config.md)
